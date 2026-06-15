@@ -14,4 +14,11 @@ add_executable(KingC main.c
         "King Chapter 2/Chapter 2 PP/q6.c"
         "King Chapter 2/Chapter 2 PP/q7.c"
         "King Chapter 2/Chapter 2 PP/q8.c"
+        "King chapter 3/FormattingIO.c"
+        "King chapter 3/King Chapter 3 PP/q1.c"
+        "King chapter 3/King Chapter 3 PP/q2.c"
+        "King chapter 3/King Chapter 3 PP/q3.c"
+        "King chapter 3/King Chapter 3 PP/q4.c"
+        "King chapter 3/King Chapter 3 PP/q5.c"
+        "King chapter 3/King Chapter 3 PP/q6.c"
 )
